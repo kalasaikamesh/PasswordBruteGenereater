@@ -11,3 +11,9 @@ git clone https://github.com/kalasaikamesh/PasswordBruteGenereater.git
 
 
 pip install -r Requirements.txt
+
+
+python3 HashBruteForcer.py
+
+
+
