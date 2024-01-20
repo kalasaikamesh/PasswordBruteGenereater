@@ -8,10 +8,13 @@ Installation process
 git clone https://github.com/kalasaikamesh/PasswordBruteGenereater.git
 
 
+cd PasswordBruteGenereater
 
 
 pip install -r Requirements.txt
 
+
+chmod +x  BruteGenereter
 
 python3 HashBruteForcer.py
 
